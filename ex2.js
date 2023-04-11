@@ -7,7 +7,7 @@
  let variable3 = 3;
  let variable4 = 4;
  variable2= 2;
- varialbe3= 4;
+ variable3= 4;
  variable4= 1;
  variable1= -7;
 
@@ -21,3 +21,5 @@
 /**
   * En este punto, que valor tendrá 'variable4'. ¿Por qué? ¿Cómo podrías comprobarlo?
   */
+
+console.log (variable4)
