@@ -9,3 +9,4 @@ console.log(marca.length);
 // acceder a una posición de un string
 // Quiero acceder a la primera posicióm
 console.log(marca[marca.length - 1]);
+ 
