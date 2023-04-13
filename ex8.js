@@ -30,4 +30,5 @@ console.log("Ejercicio 9: Posición del último carácter 's'");
 console.log(texto.indexOf('s',1)); 
 
 console.log("Ejercicio 10: String en orden inverso"); 
-console.log(); 
+console.log(texto.split("").reverse().join(""));
+

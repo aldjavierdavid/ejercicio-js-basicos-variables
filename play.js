@@ -18,10 +18,12 @@ console.log(edad);
 let dinero = 100;
 
 // Número de compañeras de clase
-let alumnosMatriculados = 15;
+/*let alumnosMatriculados = 15;
 let alumnosAsistentes = 13;
 
 // Creadme una operación aritmética adecuada para repartir el dinero disponible entre todos los alumnos asistentes
 
 let cuantoToca = 100/13; // <--- esta línea hay que cambiarla
-console.log("A cada uno toca", cuantoToca);
+console.log("A cada uno toca", cuantoToca);*/
+
+console.log("Hello");
